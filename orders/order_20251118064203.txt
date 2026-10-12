@@ -1,0 +1,9 @@
+===== STRUK PESANAN =====
+Nama Pelanggan: Shelva
+Waktu: 2025-11-18 06:42:03
+
+Nasi Goreng (Makanan) - Rp20000
+Es Jeruk (Minuman) - Rp10000
+
+Total bayar: Rp30000
+=========================

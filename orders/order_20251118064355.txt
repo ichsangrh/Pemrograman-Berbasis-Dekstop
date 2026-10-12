@@ -1,0 +1,12 @@
+===== STRUK PESANAN =====
+Nama Pelanggan: Shelva
+Waktu: 2025-11-18 06:43:55
+
+[Diskon] Promo Siang - 10% untuk All
+Nasi Rendang (Makanan) - Rp25000
+Es Kelapa (Minuman) - Rp15000
+Nasi Rendang (Makanan) - Rp25000
+Es Kelapa (Minuman) - Rp15000
+
+Total bayar: Rp72000
+=========================

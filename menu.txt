@@ -1,0 +1,5 @@
+Makanan|Nasi Goreng|25000.0|Utama
+Makanan|Sate Ayam|30000.0|Utama
+Minuman|Teh Manis|5000.0|Dingin
+Minuman|Kopi Hitam|10000.0|Panas
+Diskon|Promo Siang|10.0|All
